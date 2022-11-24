@@ -1,2 +1,2 @@
 # tipper_frontend
-FLutter app for reporting fly tipping
+Flutter app for reporting fly tipping
